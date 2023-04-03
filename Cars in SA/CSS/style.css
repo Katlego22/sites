@@ -1,0 +1,153 @@
+.banner {
+ height: 100px;
+ width: 100%;
+ font-size: 35px;
+ background-color: black;
+ color: grey;
+ text-align: center;
+}
+
+/* Create a top navigation bar with a black background color  */
+.topnav {
+  background-color: grey;
+  overflow: hidden;
+  padding top:80px;
+
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  height: 30px;
+  float: left;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 25px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Create a right-aligned (split) link inside the navigation bar */
+.topnav a.split {
+  float: right;
+  background-color: grey;
+  color: black;
+}
+
+body{
+     background-color: black;
+}
+
+.title{
+ position: absolute;
+}
+ 
+h2 {
+  color: white;
+  text-align: center;
+  font-size: 70px;
+}
+
+p{
+ color: white;
+ text-align: center;
+ font-size: 30px;
+}
+
+.Polo{
+width: 100%
+}
+
+h3{
+ color: white;
+ text-align: center;
+ font-size: 55px;
+}
+
+.event1{
+ width: 35%;
+ height: 350px;
+ float: right;
+}
+
+.event2{
+ width: 40%;
+ height: 350px;
+ float: center;
+}
+
+.event3{
+ width: 100%
+}
+
+
+.img-6r{
+ width: 800px;
+}
+
+.img-golfie{
+ position: top;
+}
+
+footer {
+ color: black;
+ height: 70px;
+ width: 100%;
+ background-color: grey;
+}
+
+.zone{
+ color: grey;
+ text-align: center;
+ font-size: 30px;
+}
+
+.p2{
+ font-size: 35px;
+ background-color: black;
+ color: white;
+ text-align: center;
+}
+font-family: Arial, Helvetica, sans-serif;}
+* {box-sizing: border-box;}
+
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+input[type=submit] {
+  background-color: grey;
+  color: black;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: grey;
+}
+
+.container {
+  border-radius: 5px;
+  color: black
+  text-color: white;
+  background-color: grey;
+  padding: 20px;
+}
+
+.p3{
+  text-align: right;
+}
